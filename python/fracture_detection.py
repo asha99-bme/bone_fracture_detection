@@ -114,7 +114,7 @@ def plot_results(orig, edges, overlay):
 
 
 def main():
-    img_path = Path("..") / "images" / "foot_xray_example.jpg"
+    img_path = Path("..") / "image" / "foot_xray.jpg"
     orig, img_blur = load_and_preprocess(str(img_path))
     edges = detect_edges(img_blur)
     lines = detect_lines(edges)
