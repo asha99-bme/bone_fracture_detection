@@ -1,4 +1,4 @@
-# Bone Fracture Detection Using Image Processing (MATLAB & Python) - Mini Porject at Undergrad and personal project for developing python skills
+# Bone Fracture Detection Using Image Processing (MATLAB & Python) - Mini Project at Undergrad and personal project for developing python skills
 
 This repository contains a student project on **automated bone fracture indication from X-ray images** using classical image-processing techniques in both **MATLAB** and **Python (OpenCV)**.
 
